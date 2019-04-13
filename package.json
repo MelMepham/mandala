@@ -1,0 +1,28 @@
+{
+  "name": "mandala-svg",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelMepham/mandala.git"
+  },
+  "keywords": [
+    "mandala",
+    "svg",
+    "imageProcessing",
+    "geometry"
+  ],
+  "author": "Melissa Mepham, James Kiesel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MelMepham/mandala/issues"
+  },
+  "homepage": "https://github.com/MelMepham/mandala#readme",
+  "dependencies": {
+    "p5": "^0.8.0"
+  }
+}
